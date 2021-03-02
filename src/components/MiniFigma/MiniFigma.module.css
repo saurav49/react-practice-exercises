@@ -1,0 +1,13 @@
+.miniFigma {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.inputHeading {
+  font-weight: 900;
+  font-size: 32px;
+  border: none;
+  padding: 0.3em;
+  margin: 10px 0;
+}
